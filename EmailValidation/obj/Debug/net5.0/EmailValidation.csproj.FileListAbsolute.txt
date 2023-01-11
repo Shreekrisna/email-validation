@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\bin\Debug\net5.0\EmailValidation.exe
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\bin\Debug\net5.0\EmailValidation.deps.json
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\bin\Debug\net5.0\EmailValidation.runtimeconfig.json
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\bin\Debug\net5.0\EmailValidation.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\bin\Debug\net5.0\EmailValidation.dll
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\bin\Debug\net5.0\EmailValidation.pdb
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\obj\Debug\net5.0\EmailValidation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\obj\Debug\net5.0\EmailValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\obj\Debug\net5.0\EmailValidation.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\obj\Debug\net5.0\EmailValidation.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\obj\Debug\net5.0\EmailValidation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\obj\Debug\net5.0\EmailValidation.dll
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\obj\Debug\net5.0\refint\EmailValidation.dll
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\obj\Debug\net5.0\EmailValidation.pdb
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\obj\Debug\net5.0\EmailValidation.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\EmailValidation\EmailValidation\obj\Debug\net5.0\ref\EmailValidation.dll
